@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nianiiier&theme=buefy&show_icons=true)
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nianiiier&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nianiiier&theme=buefy&repo=nianiiier&show_icons=true)](https://github.com/nianiiier/nianiiier)
 
 ## プログラミング言語
 
